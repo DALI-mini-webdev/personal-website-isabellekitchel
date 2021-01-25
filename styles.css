@@ -1,1 +1,7 @@
-hello2
+.blue-text{
+    color:cornflowerblue;
+    font:italic;
+}
+#pink-background{
+    background-color: pink;
+}
